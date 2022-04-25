@@ -7,6 +7,7 @@
   - ### 根目录
   - ### 数据区
  ![结构图](./images/Exfat/ExFAT-1.png)
+ 
  ---
  - ## ExFAT
  - ExFAT 文件系统只有 **1** 个 FAT 表
