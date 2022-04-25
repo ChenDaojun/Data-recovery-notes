@@ -9,8 +9,8 @@
  ![结构图](./images/Exfat/ExFAT-1.png)
  ---
  - ## ExFAT
-    1. ExFAT 文件系统的 "簇" 从 **<u>簇位图文件</u>**
-    2. ExFAT 文件系统只有 **1** 个 FAT 表
+ - ExFAT 文件系统只有 **1** 个 FAT 表
+
   ---
   - ## DBR解析
   |   偏移位置  |  字节数  |  含义    |   算法    |
